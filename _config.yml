@@ -1,8 +1,8 @@
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://hyde.getpoole.com
+title:            Yoncho
+tagline:          'A Bounty Hunter Blog'
+description:      'Bug Bounty hunter from Perú ❤️🦙🇵🇪. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              https://127.0.0.1
 baseurl:          ''
 paginate:         5
 
